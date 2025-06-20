@@ -12,17 +12,17 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "put your session ID here in the box below",
+      "description": "Prince~scl/fi/cbbg1indayyrush4v31re/kCqgNRaycr.json?rlkey=3hpeibhxn8j1vb6ip55cr9r96&dl=0",
       "required": true,
       "value": ""
     },
     "BOT_NAME": {
-      "description": "put your BOT a name",
+      "description": "THE LEGEND NAWAB",
       "required": true,
       "value": "PRINCE-BOT"
     },
     "OWNER_NUMBER": {
-      "description": "put your Number and name for Owner",
+      "description": "923191327275",
       "required": true,
       "value": "639129985130,DEVELOPER"
     },
@@ -47,7 +47,7 @@
       "value": ""
     },
     "PREFIX": {
-      "description": "put any one symbol here leave it Blank if you want to use multiple prefix",
+      "description": ".",
       "required": false,
       "value": ""
     },
@@ -68,8 +68,8 @@
     },
      "AutoReaction": {
      "description": "Set to 'true' for reactions in all chats, 'group' for group chats only, 'private' for private chats only, or 'false' to disable",
-     "required": false,
-     "value": "false"
+     "required": true,
+     "value": "true"
     },
     "autoreactions_emojies": {
       "description": "put your favourite emojies for AutoReactions on chats or make it empty for all default emojies",
@@ -93,8 +93,8 @@
     },
     "StatusLikes": {
       "description": "make it true to auto likes on status",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     "StatusEmojies": {
       "description": "Add your favorites emojies for status likes",
